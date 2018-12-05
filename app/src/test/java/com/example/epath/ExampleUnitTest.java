@@ -1,4 +1,4 @@
-package com.example.epathsdkdemo;
+package com.example.epath;
 
 import org.junit.Test;
 

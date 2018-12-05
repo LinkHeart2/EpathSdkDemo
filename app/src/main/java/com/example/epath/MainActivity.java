@@ -1,4 +1,4 @@
-package com.example.epathsdkdemo;
+package com.example.epath;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

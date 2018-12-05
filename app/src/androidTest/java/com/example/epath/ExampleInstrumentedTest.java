@@ -1,4 +1,4 @@
-package com.example.epathsdkdemo;
+package com.example.epath;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.epathsdkdemo", appContext.getPackageName());
+        assertEquals("com.example.epath", appContext.getPackageName());
     }
 }
