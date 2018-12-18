@@ -15,12 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void jumpEpath(View view) {
-        new Thread(){
-            @Override
-            public void run() {
-                EpathMapSDK.openEpathMapActivity(MainActivity.this,"vf4sbrBYP9");
-
-            }
-        }.start();
+        EpathMapSDK.openEpathMapActivity(MainActivity.this,"vf4sbrBYP9");
     }
 }
